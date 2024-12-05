@@ -42,3 +42,4 @@ console.log("vogais: "+ num_vogal + " consoantes: " +num_cons);
 
 // 3 - Colocar o texto em ordem alfabetica
 // Texto -> eottx
+// 3412 -> 1234
